@@ -24,7 +24,7 @@
 
 .hm-gradient .full-bg-img {
   background: rgba(42, 27, 161, 0.7);
-  background: linear-gradient(62deg, rgba(61, 46, 182, 0.32), rgba(218, 218, 218, 0) 59%);
+  background: linear-gradient(71deg, rgba(61, 46, 182, 0.75), rgba(218, 218, 218, 0.2) 59%);
 }
 
 @media (max-width: 450px) {
