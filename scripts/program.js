@@ -1,7 +1,7 @@
 var days = [
     [
         ['Welcome & Introduction', 'Professor Fouad FERKOUS - University of Annaba', 'Fouad', ''],
-        ['Computer Aided Drug Design', 'Youcef SAIHI – High School of Technological Education - Skikda', 'Youcef', ''],
+        ['Computer Aided Drug Design', 'Professor Fouad FERKOUS - University of Annaba', 'Fouad', ''],
         ['2D & 3D- QSAR: Applications and limitations', 'Khairedine KRAIM – High School of Technological Education – Skikda', 'Khairedine', ''],
         ['Workshops on 2D- QSAR', 'Ahmed Allali & Mohammed Brahim', 'Ahmed', 'Mohammed'],
         ['Workshops on 2D- QSAR', 'Ahmed Allali & Mohammed Brahim', 'Ahmed', 'Mohammed']
@@ -28,7 +28,7 @@ var days = [
         ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine']
     ],
     [
-        ['Automating drug discovery', 'Ahmed Allali - University of El - Oued', 'Ahmed', ''],
+        ['Automating drug discovery', 'Ahmed Allali & Khairedine KRAIM', 'Ahmed', 'Khairedine'],
         ['Workshop on Pharmacophore structure - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
         ['Workshop on Pharmacophore structure - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
         ['Workshop on Virtual screening based on Pharmacophore', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
@@ -36,9 +36,9 @@ var days = [
     ],
 ];
 var dates = [
-    ['29', 'Sunday', 'Mach 2020'],
-    ['30', 'Monday', 'Mach 2020'],
-    ['31', 'Tuesday', 'Mach 2020'],
+    ['29', 'Sunday', 'March 2020'],
+    ['30', 'Monday', 'March 2020'],
+    ['31', 'Tuesday', 'March 2020'],
     ['01', 'Wednesday', 'April 2020'],
     ['02', 'Thursday', 'April 2020'],
 ]
