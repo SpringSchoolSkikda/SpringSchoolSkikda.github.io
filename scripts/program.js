@@ -2,7 +2,7 @@ var days = [
     [
         ['Welcome & Introduction', 'Professor Fouad FERKOUS - University of Annaba', 'Fouad', ''],
         ['Computer Aided Drug Design', 'Professor Fouad FERKOUS - University of Annaba', 'Fouad', ''],
-        ['2D & 3D- QSAR: Applications and limitations', 'Youcef Saihi – Higher School of Technological Education – Skikda', 'Khairedine', ''],
+        ['2D & 3D- QSAR: Applications and limitations', 'Youcef Saihi – Higher School of Technological Education – Skikda', 'Youcef', ''],
         ['Workshops on 2D- QSAR', 'Ahmed Allali & Mohammed Brahim', 'Ahmed', 'Mohammed'],
         ['Workshops on 2D- QSAR', 'Ahmed Allali & Mohammed Brahim', 'Ahmed', 'Mohammed']
     ],
