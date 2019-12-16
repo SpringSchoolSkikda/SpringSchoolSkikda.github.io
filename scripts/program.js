@@ -2,26 +2,26 @@ var days = [
     [
         ['Welcome & Introduction', 'Professor Fouad FERKOUS - University of Annaba', 'Fouad', ''],
         ['Computer Aided Drug Design', 'Professor Fouad FERKOUS - University of Annaba', 'Fouad', ''],
-        ['2D & 3D- QSAR: Applications and limitations', 'Khairedine KRAIM – High School of Technological Education – Skikda', 'Khairedine', ''],
+        ['2D & 3D- QSAR: Applications and limitations', 'Youcef Saihi – Higher School of Technological Education – Skikda', 'Youcef', ''],
         ['Workshops on 2D- QSAR', 'Ahmed Allali & Mohammed Brahim', 'Ahmed', 'Mohammed'],
         ['Workshops on 2D- QSAR', 'Ahmed Allali & Mohammed Brahim', 'Ahmed', 'Mohammed']
     ],
     [
-        ['Introduction to Molecular Docking', 'Youcef SAIHI – High School of Technological Education - Skikda', 'Youcef', ''],
+        ['Introduction to Molecular Docking', 'Youcef SAIHI – Higher School of Technological Education - Skikda', 'Youcef', ''],
         ['Machine learning in drug design I', 'Mohammed BRAHIMI - University of Bordj Bou Arreridj', 'Mohammed', ''],
         ['Calculation methods in computational chemistry', 'Abdelmalek Khorief Nacereddine - High School of Technological Education - Skikda', 'Abdelmalek', ''],
         ['Workshops on molecular Docking - 1', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
         ['Workshops on molecular Docking - 1', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine']
     ],
     [
-        ['Molecular Docking: Search Algorithms and scoring functions', 'Khairedine KRAIM – High School of Technological Education - Skikda', 'Khairedine', ''],
+        ['Molecular Docking: Search Algorithms and scoring functions', 'Khairedine KRAIM – Higher School of Technological Education - Skikda', 'Khairedine', ''],
         ['Machine learning in drug design II', 'Mohammed BRAHIMI - University of Bordj Bou Arreridj', 'Mohammed', ''],
         ['Introduction to Pharmacophore Hypothesis in drug design', 'Khairedine KRAIM – High School of Technological Education - Skikda', 'Khairedine', ''],
         ['Workshop on molecular docking -2', ' Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
         ['Workshop on molecular docking -2', ' Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine']
     ],
     [
-        ['Pharmacophore ligand/structure - based drug design', 'Khairedine KRAIM – High School of Technological Education - Skikda', 'Khairedine', ''],
+        ['Pharmacophore ligand/structure - based drug design', 'Khairedine KRAIM – Higher School of Technological Education - Skikda', 'Khairedine', ''],
         ['Machine learning in drug design III', 'Mohammed BRAHIMI - University of Bordj Bou Arreridj', 'Mohammed', ''],
         ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
         ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
