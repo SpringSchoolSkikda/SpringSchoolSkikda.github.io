@@ -11,9 +11,9 @@
     background: transparent !important;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 994px) {
     .navbar:not(.top-nav-collapse) {
-        /*background: #3949ab !important;*/
+        background: #3949ab !important;
     }
 }
 

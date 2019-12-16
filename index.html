@@ -56,8 +56,7 @@
                                         </p>
                                     </blockquote>
                                 </div><br>
-                                <div class="wow fadeInLeft" data-wow-delay="0.3s"><a class="btn btn-white dark-grey-text font-bold ml-0" href="https://forms.gle/obkQ1iecRd1uJxuc8"><i class="fa fa-play mr-1"></i>Register</a><a class="btn btn-outline-white" style="padding: .76rem 1rem;" onclick="document.designMode='on'"
-                                        href="#">Learn more</a></div>
+                                <div class="wow fadeInLeft" data-wow-delay="0.3s"><a class="btn btn-white dark-grey-text font-bold ml-0" href="https://forms.gle/obkQ1iecRd1uJxuc8"><i class="fa fa-play mr-1"></i>Register</a><a class="btn btn-outline-white" style="padding: .76rem 1rem;" href="#about">Learn more</a></div>
                             </div>
                         </div>
                     </div>
@@ -81,17 +80,21 @@
             <div class="container">
                 <div class="wow fadeIn">
                     <h2 class="h1 pt-5 pb-3">About</h2>
-                    <p class="px-5 mb-5 pb-3 lead blue-grey-text">
+                    <p id="t0" class="px-5 lead blue-grey-text">
                         Nowadays, researchers from various scientific disciplines, including biology, chemistry, pharmacy, medicine, computer science and mathematics seek for the fruitful scientific collaboration to exchange and discuss new ideas related to drug development
-                        processes from the beginning of target-identifying and selecting lead compounds, Preclinical and Clinical trials. Drug Design is a crucial step in drug development process. Due to the need to of the academic and pharmaceutical
-                        firms to provide a robust decisions in order to minimize the budget of drug costs, the researchers have to go away from the intuitive decision. Regarding the huge explosion of data, exponential evolution of their storage, several
-                        methods and algorithms have been designed and approved to make a robust decisions in drug design steps, known as computer aided drug design methods. All researchers are welcome to attend our spring school on Drug Design and, mainly
-                        PhD students in chemistry, pharmacy, biology and medicine interested in the development and use of the main approaches and techniques of drug design such as QSAR, molecular docking and pharmacophore, data mining and machine learning.
-                        The activities of the spring school are based on a simple approach and divided into lectures in the morning sessions and workshops, case studies in the afternoon sessions during which, the learners practice the main concepts and
-                        programs provided in the conferences and lectures.
+                        processes from the beginning of target-identifying and selecting lead compounds,Preclinical and Clinical trials.
                     </p>
+                    <a id="l0" href="#about" onclick="document.getElementById('t1').classList.remove('d-none');document.getElementById('l1').classList.remove('d-none');document.getElementById('l0').classList.add('d-none'); " class="mb-5 justify-self-center align-self-center"> Read more ... </a>
+                    <p id="t1" class="px-5 pb-3 lead blue-grey-text d-none">
+                        Drug Design is a crucial step in drug development process. Due to the need to of the academic and pharmaceutical firms to provide a robust decisions in order to minimize the budget of drug costs, the researchers have to go away from the intuitive decision.
+                        Regarding the huge explosion of data, exponential evolution of their storage, several methods and algorithms have been designed and approved to make a robust decisions in drug design steps, known as computer aided drug design methods.
+                        All researchers are welcome to attend our spring school on Drug Design and, mainly PhD students in chemistry, pharmacy, biology and medicine interested in the development and use of the main approaches and techniques of drug design
+                        such as QSAR, molecular docking and pharmacophore, data mining and machine learning. The activities of the spring school are based on a simple approach and divided into lectures in the morning sessions and workshops, case studies
+                        in the afternoon sessions during which, the learners practice the main concepts and programs provided in the conferences and lectures.
+                    </p>
+                    <a id="l1" href="#about" onclick="document.getElementById('l0').classList.remove('d-none');document.getElementById('l1').classList.add('d-none');document.getElementById('t1').classList.add('d-none'); " class="justify-self-center align-self-center d-none"> HIDE </a>
                 </div>
-                <div class="row">
+                <div class="row mt-5">
                     <div class="col-md-4 mb-r wow fadeInUp" data-wow-delay=".3s">
                         <i class="fa fa-map-marker fa-3x orange-text"></i>
                         <h3 class="h4 mt-3">When and where ?</h3>
