@@ -1,37 +1,37 @@
 var days = [
     [
-        ['Welcome & Introduction', 'Professor Fouad FERKOUS - University of Annaba', 'Fouad', ''],
-        ['Computer Aided Drug Design', 'Professor Fouad FERKOUS - University of Annaba', 'Fouad', ''],
-        ['2D & 3D- QSAR: Applications and limitations', 'Youcef Saihi – Higher School of Technological Education – Skikda', 'Youcef', ''],
-        ['Workshops on 2D- QSAR', 'Ahmed Allali & Mohammed Brahim', 'Ahmed', 'Mohammed'],
-        ['Workshops on 2D- QSAR', 'Ahmed Allali & Mohammed Brahim', 'Ahmed', 'Mohammed']
+        ['Welcome & Introduction', 'Professor Fouad FERKOUS - University of Annaba', 'Fouad_1', ''],
+        ['Computer Aided Drug Design', 'Professor Fouad FERKOUS - University of Annaba', 'Fouad_1', ''],
+        ['2D & 3D- QSAR: Applications and limitations', 'Youcef Saihi – Higher School of Technological Education – Skikda', 'Youcef_1', ''],
+        ['Workshops on 2D- QSAR', 'Ahmed Allali & Mohammed Brahim', 'Ahmed_1', 'Mohammed_1'],
+        ['Workshops on 2D- QSAR', 'Ahmed Allali & Mohammed Brahim', 'Ahmed_1', 'Mohammed_1']
     ],
     [
-        ['Introduction to Molecular Docking', 'Youcef SAIHI – Higher School of Technological Education - Skikda', 'Youcef', ''],
-        ['Machine learning in drug design I', 'Mohammed BRAHIMI - University of Bordj Bou Arreridj', 'Mohammed', ''],
-        ['Calculation methods in computational chemistry', 'Abdelmalek Khorief Nacereddine - High School of Technological Education - Skikda', 'Abdelmalek', ''],
-        ['Workshops on molecular Docking - 1', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
-        ['Workshops on molecular Docking - 1', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine']
+        ['Introduction to Molecular Docking', 'Youcef SAIHI – Higher School of Technological Education - Skikda', 'Youcef_1', ''],
+        ['Machine learning in drug design I', 'Mohammed BRAHIMI - University of Bordj Bou Arreridj', 'Mohammed_1', ''],
+        ['Calculation methods in computational chemistry', 'Abdelmalek Khorief Nacereddine - Higher School of Technological Education - Skikda', 'Abdelmalek_1', ''],
+        ['Workshops on molecular Docking - 1', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
+        ['Workshops on molecular Docking - 1', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1']
     ],
     [
-        ['Molecular Docking: Search Algorithms and scoring functions', 'Khairedine KRAIM – Higher School of Technological Education - Skikda', 'Khairedine', ''],
-        ['Machine learning in drug design II', 'Mohammed BRAHIMI - University of Bordj Bou Arreridj', 'Mohammed', ''],
-        ['Introduction to Pharmacophore Hypothesis in drug design', 'Khairedine KRAIM – High School of Technological Education - Skikda', 'Khairedine', ''],
-        ['Workshop on molecular docking -2', ' Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
-        ['Workshop on molecular docking -2', ' Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine']
+        ['Molecular Docking: Search Algorithms and scoring functions', 'Khairedine KRAIM – Higher School of Technological Education - Skikda', 'Khairedine_1', ''],
+        ['Machine learning in drug design II', 'Mohammed BRAHIMI - University of Bordj Bou Arreridj', 'Mohammed_1', ''],
+        ['Introduction to Pharmacophore Hypothesis in drug design', 'Khairedine KRAIM – Higher School of Technological Education - Skikda', 'Khairedine_1', ''],
+        ['Workshop on molecular docking -2', ' Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
+        ['Workshop on molecular docking -2', ' Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1']
     ],
     [
-        ['Pharmacophore ligand/structure - based drug design', 'Khairedine KRAIM – Higher School of Technological Education - Skikda', 'Khairedine', ''],
-        ['Machine learning in drug design III', 'Mohammed BRAHIMI - University of Bordj Bou Arreridj', 'Mohammed', ''],
-        ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
-        ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
-        ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine']
+        ['Pharmacophore ligand/structure - based drug design', 'Khairedine KRAIM – Higher School of Technological Education - Skikda', 'Khairedine_1', ''],
+        ['Machine learning in drug design III', 'Mohammed BRAHIMI - University of Bordj Bou Arreridj', 'Mohammed_1', ''],
+        ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
+        ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
+        ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1']
     ],
     [
-        ['Automating drug discovery', 'Ahmed Allali & Khairedine KRAIM', 'Ahmed', 'Khairedine'],
-        ['Workshop on Pharmacophore structure - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
-        ['Workshop on Pharmacophore structure - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
-        ['Workshop on Virtual screening based on Pharmacophore', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef', 'Khairedine'],
+        ['Automating drug discovery', 'Khairedine KRAIM', 'Khairedine_1',''],
+        ['Workshop on Pharmacophore structure - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
+        ['Workshop on Pharmacophore structure - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
+        ['Workshop on Virtual screening based on Pharmacophore', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
         ['Close the spring school', '', '', ''],
     ],
 ];
