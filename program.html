@@ -50,7 +50,8 @@
                     <div class="month">March 2020</div>
                 </div>
             </div>
-            <div class="actionbutton bg-secondary waves-effect waves-dark"><i class="far fa-file-pdf" style="font-size: 27px;"></i></div>
+            <a id="pdf" href="SSDD 2020_program.pdf" download style="display: none;"></a>
+            <div class="actionbutton bg-secondary waves-effect waves-dark" onclick="document.getElementById('pdf').click()"><i class="far fa-file-pdf" style="font-size: 27px;"></i></div>
             <div class="actionbutton left bg-primary waves-effect waves-dark" onclick="setSection(--currentDay)"><i style="font-size: 27px;" class="fas fa-angle-left"></i></div>
             <div class="actionbutton right bg-primary waves-effect waves-dark" onclick="setSection(++currentDay)"><i style="font-size: 27px;" class="fas fa-angle-right"></i></div>
         </div>
