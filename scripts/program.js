@@ -28,7 +28,7 @@ var days = [
         ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1']
     ],
     [
-        ['Automating drug discovery', 'Ahmed Allali & Khairedine KRAIM','Ahmed_1','Khairedine_1'],
+        ['Automating drug discovery', 'Khairedine KRAIM','Khairedine_1',''],
         ['Workshop on Pharmacophore structure - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
         ['Workshop on Pharmacophore structure - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
         ['Workshop on Virtual screening based on Pharmacophore', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
