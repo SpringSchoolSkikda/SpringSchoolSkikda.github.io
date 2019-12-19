@@ -23,14 +23,14 @@ var days = [
     [
         ['Pharmacophore ligand/structure - based drug design', 'Khairedine KRAIM – Higher School of Technological Education - Skikda', 'Khairedine_1', ''],
         ['Machine learning in drug design III', 'Mohammed BRAHIMI - University of Bordj Bou Arreridj', 'Mohammed_1', ''],
-        ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
-        ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
-        ['Workshop on Pharmacophore ligand - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1']
+        ['Workshop on Pharmacophore ligand - based drug design', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
+        ['Workshop on Pharmacophore ligand - based drug design', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
+        ['Workshop on Pharmacophore ligand - based drug design', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1']
     ],
     [
-        ['Automating drug discovery', 'Khairedine KRAIM','Khairedine_1',''],
-        ['Workshop on Pharmacophore structure - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
-        ['Workshop on Pharmacophore structure - based', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
+        ['Automating drug discovery', 'Khairedine KRAIM', 'Khairedine_1', ''],
+        ['Workshop on Pharmacophore structure - based drug design', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
+        ['Workshop on Pharmacophore structure - based drug design', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
         ['Workshop on Virtual screening based on Pharmacophore', 'Youcef SAIHI & Khairedine KRAIM', 'Youcef_1', 'Khairedine_1'],
         ['Close the spring school', '', '', ''],
     ],
