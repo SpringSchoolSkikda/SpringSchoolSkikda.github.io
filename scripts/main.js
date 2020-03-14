@@ -6,7 +6,7 @@ const second = 1000,
 
 let countDown = new Date('march 29, 2020 08:00:00').getTime();
 
-x = setInterval(function () {
+x = setInterval(function() {
 
     let now = new Date().getTime();
     distance = countDown - now;
@@ -26,3 +26,5 @@ x = setInterval(function () {
         clearInterval(x);
     }
 }, second)
+
+$('#myModal').modal('toggle');
